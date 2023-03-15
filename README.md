@@ -4,9 +4,15 @@ This system uses pycharm in which it creates a app to recommend the songs based 
  
  The requirements are-
  streamlit
+ 
 numpy
+
 pandas
+
 opencv-python
+
 tensorflow
+
 keras
+
 collection
