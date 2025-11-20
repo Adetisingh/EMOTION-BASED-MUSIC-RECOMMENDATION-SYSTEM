@@ -1,19 +1,58 @@
-# EMOTION-BASED-MUSIC-RECOMMENDATION-SYSTEM
+# Emotion-Based Music Recommendation System
 
-This is a web application which recommend songs based on user’s emotions.The system is developed using Python (Pycharm) .
- 
-The requirements are-
- 
-streamlit
- 
-numpy
+This is a web application that recommends songs based on the user’s emotions 😊🎶. The system captures or inputs emotion data and predicts the mood using a trained deep learning model, then maps the detected emotion to a curated music playlist.
+Developed using **Python** in **PyCharm**, the application provides a simple and interactive interface using **Streamlit**.
 
-pandas
+✨ **Features:-**
 
-opencv-python
+* 🎭 Emotion Detection using a trained deep learning model
 
-tensorflow
+* 🎶 Song Recommendations tailored to the predicted emotion
 
-keras
+* 📷 Real-time Camera Input for emotion analysis
 
-collection
+* ⚡ Streamlit Interface for a smooth and interactive experience
+
+* 🧠 Integrated with TensorFlow/Keras for emotion classification
+
+🚀 **Tech Stack & Tools:-**
+The project uses the following libraries:
+
+* 💻 Python (PyCharm)
+
+* 🌐 Streamlit – for building the web interface
+
+* 🔢 NumPy – numerical computations
+
+* 📊 Pandas – data handling
+
+* 📷 OpenCV – real-time face detection
+
+* 🤖 TensorFlow – model building
+
+* 🧬 Keras – neural network training
+
+* 📚 Collection
+
+📦 **Installation:-**
+
+1️⃣ *Clone the repository:-*
+```
+git clone https://github.com/your-username/EMOTION-BASED-MUSIC-RECOMMENDATION-SYSTEM.git
+cd EMOTION-BASED-MUSIC-RECOMMENDATION-SYSTEM
+```
+2️⃣ *Install dependencies:-*
+```
+pip install -r requirements.txt
+```
+3️⃣ *Run the app:-*
+```
+streamlit run app.py
+```
+😊 **How It Works:-**
+
+* 📸 The system captures your facial expression
+
+* 🧠 Deep learning model predicts your emotion
+
+* 🎶 A curated playlist is recommended based on user's emotion
