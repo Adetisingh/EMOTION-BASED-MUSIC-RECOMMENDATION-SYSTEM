@@ -16,23 +16,24 @@ Developed using **Python** in **PyCharm**, the application provides a simple and
 * 🧠 Integrated with TensorFlow/Keras for emotion classification
 
 🚀 **Tech Stack & Tools:-**
+
 The project uses the following libraries:
 
-* 💻 Python (PyCharm)
+* 💻 **Python (PyCharm) –** Python development environment
 
-* 🌐 Streamlit – for building the web interface
+* 🌐 **Streamlit –** for building the web interface
 
-* 🔢 NumPy – numerical computations
+* 🔢 **NumPy –** numerical computations
 
-* 📊 Pandas – data handling
+* 📊 **Pandas –** data handling
 
-* 📷 OpenCV – real-time face detection
+* 📷 **OpenCV –** real-time face detection
 
-* 🤖 TensorFlow – model building
+* 🤖 **TensorFlow –** model building
 
-* 🧬 Keras – neural network training
+* 🧬 **Keras –** neural network training
 
-* 📚 Collection
+* 📚 **Collection –** Advanced built-in data structures
 
 📦 **Installation:-**
 
