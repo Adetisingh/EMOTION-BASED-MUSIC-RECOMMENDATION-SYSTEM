@@ -39,7 +39,7 @@ The project uses the following libraries:
 
 1️⃣ *Install dependencies:-*
 ```
-pip install -r requirements.txt
+pip install numpy pandas opencv tensorflow keras collection
 ```
 2️⃣ *Run the app:-*
 ```
