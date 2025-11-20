@@ -37,16 +37,11 @@ The project uses the following libraries:
 
 📦 **Installation:-**
 
-1️⃣ *Clone the repository:-*
-```
-git clone https://github.com/your-username/EMOTION-BASED-MUSIC-RECOMMENDATION-SYSTEM.git
-cd EMOTION-BASED-MUSIC-RECOMMENDATION-SYSTEM
-```
-2️⃣ *Install dependencies:-*
+1️⃣ *Install dependencies:-*
 ```
 pip install -r requirements.txt
 ```
-3️⃣ *Run the app:-*
+2️⃣ *Run the app:-*
 ```
 streamlit run app.py
 ```
