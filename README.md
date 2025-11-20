@@ -56,4 +56,4 @@ streamlit run app.py
 
 * 🧠 Deep learning model predicts your emotion
 
-* 🎶 A curated playlist is recommended based on user's emotion
+* 🎶 A curated playlist is recommended based on user's emotions
